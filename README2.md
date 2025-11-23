@@ -1,8 +1,8 @@
-# 🌱 Crop Recommendation System (Agriculture)
+#  🌱 Crop Recommendation System (Agriculture)
 
 A *Machine Learning–based Crop Recommendation System* that suggests the *best-suitable crop* for cultivation based on soil nutrients and environmental conditions. This project helps farmers, students, and researchers make *smart agricultural decisions* by analyzing soil and climate data.
 
-## 🚀 Project Overview
+##⭐ Project Overview
 
 This system takes the following parameters as input:
 
@@ -17,7 +17,7 @@ This system takes the following parameters as input:
 Using these features, the model predicts the *most optimal crop* using a trained *Random Forest Classifier*.
 
 
-## 🎯 Why This Project?
+## ⭐Why This Project?     
 
 * Helps improve *crop productivity*
 * Reduces *crop selection confusion*
@@ -26,7 +26,7 @@ Using these features, the model predicts the *most optimal crop* using a trained
 * Perfect for *students, **bioengineering, **CSE*, and agriculture-based applications
 
 
-## 🧠 Tech Stack
+##  ⚙️Tech Stack
 
 * *Python*
 * *Pandas, NumPy*
@@ -36,14 +36,14 @@ Using these features, the model predicts the *most optimal crop* using a trained
 * Dataset from *Kaggle*
 
 
-## 🗂️ Dataset
+## 📊 Dataset
 
 The dataset contains soil nutrient values and environmental conditions with their corresponding recommended crop.
 
 *Source:* Crop Recommendation Dataset (Kaggle)
 
 
-## 📊 Model Features
+## 🤖 Model Features
 
 * Trained using *Random Forest Classifier*
 * Achieves *90%+ accuracy* (based on dataset)
